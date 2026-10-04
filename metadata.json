@@ -1,0 +1,6 @@
+{
+  "name": "Pro Fake User Generator",
+  "description": "Generate realistic dummy user profiles for testing, mocking APIs, and database seeding with instant JSON and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
